@@ -7,8 +7,8 @@ package manejoarchivos;
 import manejoarchivos.*;
 
 /**
- *
- * @author HP
+ * Esta clase se encarga de construir a los usuarios, como se muestra recibe los datos necesarios para crear a cada 
+ * usuario y poder manejarlos posteriormente como una base de datos pero usando archivos de texto.
  */
 public class ArchivosUsuarios {
     private String Nombre;
