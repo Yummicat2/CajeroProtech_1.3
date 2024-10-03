@@ -1,0 +1,8 @@
+Andrea;Wera;Conejo;190;Dolar
+Aaron;Gato;Delfin;170;DolarYumi;Konan;gatos;150;Boliviano
+Yum;Konan;gatos;150;Boliviano
+Yumi;Konan;gatos;150;Boliviano
+Yumi;Konan;gatos;150;Boliviano
+Yumi;Konan;gatos;150;Boliviano
+Yumi;Konan;gatos;150;Boliviano
+;;;;

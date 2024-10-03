@@ -1,0 +1,2 @@
+Andrea;Wera;Conejo;190;Dolar
+Aaron;Gato;Delfin;170;Dolar
